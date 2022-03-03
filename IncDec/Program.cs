@@ -9,7 +9,7 @@ namespace IncDec
             int a = 2;
             int b = -7;
 
-            Console.WriteLine(a++ - b++);
+            Console.WriteLine(--a + --b);
         }
     }
 }
