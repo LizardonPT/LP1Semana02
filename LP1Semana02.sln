@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "ChatBot\ChatBot.csproj", "{FB3B1326-ABD2-4A38-BEE7-CF118531427C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piramide", "Piramide\Piramide.csproj", "{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{FB3B1326-ABD2-4A38-BEE7-CF118531427C}.Release|x64.Build.0 = Release|Any CPU
 		{FB3B1326-ABD2-4A38-BEE7-CF118531427C}.Release|x86.ActiveCfg = Release|Any CPU
 		{FB3B1326-ABD2-4A38-BEE7-CF118531427C}.Release|x86.Build.0 = Release|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Debug|x64.Build.0 = Debug|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Debug|x86.Build.0 = Debug|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Release|x64.ActiveCfg = Release|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Release|x64.Build.0 = Release|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Release|x86.ActiveCfg = Release|Any CPU
+		{829441C9-6B1C-4BEB-AC18-DD6DBBC01594}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
